@@ -11,16 +11,14 @@ $lang['ut_passed']			= 'Aprobado';
 $lang['ut_failed']			= 'Fallido';
 $lang['ut_boolean']			= 'Booleano';
 $lang['ut_integer']			= 'Entero';
-$lang['ut_double']			= 'Float';
-$lang['ut_float']			= 'Float';
+$lang['ut_float']			= 'Flotante';
+$lang['ut_double']			= 'Flotante'; // puede ser el mismo que float
 $lang['ut_string']			= 'Cadena';
 $lang['ut_array']			= 'Arreglo';
 $lang['ut_object']			= 'Objeto';
 $lang['ut_resource']		= 'Recurso';
-$lang['ut_null']			= 'Null';
-/* New in 1.6 or Higher  */
+$lang['ut_null']			= 'Nulo';
 $lang['ut_notes']			= 'Notas';
-
 
 /* End of file unit_test_lang.php */
 /* Location: ./system/language/spanish/unit_test_lang.php */
